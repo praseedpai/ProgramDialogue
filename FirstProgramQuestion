@@ -1,0 +1,9 @@
+Write a program to print the sum of numbers from 1 to n ?
+    - Write A Linear time Algorithm ( O(n)) which will use a for loop ( or while loop )
+    - Write a Constant Time Algorithm ( O(1) - n*(n+1)/2 )
+    - Write a Program to print the sum of numbers from k to n ? ( O(n))
+    - Write a Constant time algorithm to print from k to n  ( O(1) )
+
+Write the Stuff using integer and BigInteger ( Code is given below )
+	https://github.com/praseedpai/ElementaryMathForProgrammingSeries/blob/master/AlgebraNArith/OneToN/OneToN.java
+
